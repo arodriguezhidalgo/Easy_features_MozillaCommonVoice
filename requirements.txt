@@ -1,0 +1,5 @@
+jupyter
+librosa
+h5py
+pydub
+https://gist.github.com/alexalemi/2151722
